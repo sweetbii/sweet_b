@@ -11,7 +11,7 @@
 <div align=center>
 <a href="https://www.instagram.com/sweetb_k/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-<a href=https://blog.naver.com/danbi_0805/">
+<a href=https://blog.naver.com/danbi_0805>
 <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver Blog&logoColor=white">
 <br>
 
