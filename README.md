@@ -1,6 +1,12 @@
 # sweet_b
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header&text=danbi's%20profile&fontSize=50)
 
+<div align=center>
+<h4 align="center"> 안녕하세요🙌</h4>
+<h5 align="center"> 인공지능 전문가를 꿈꾸고 있는 대학생입니다 </h5>
+<h5 align="center"> CV에 관심이 생겨 Python을 집중적으로 공부중 입니다 </h5>
+ <br>
+
 <h3 align="center"> SNS list</h3>
 <div align=center>
 <a href="https://www.instagram.com/sweetb_k/">
@@ -25,4 +31,4 @@
 <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=for-the-badge&logo=Sublime Texto&logoColor=white">
  <br>
  
- <h4 align="center"> hello world </h4>
+
