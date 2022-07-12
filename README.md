@@ -2,8 +2,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header&text=danbi's%20profile&fontSize=50)
 
 <h3 align="center"> SNS list</h3>
+<div align=center>
 <a href="https://www.instagram.com/sweetb_k/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href=https://blog.naver.com/danbi_0805/">
+<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver Blog&logoColor=white">
+<br>
+
 
 <h3 align="center"> ⚒️Tech Stack⚒️</h3>
 
