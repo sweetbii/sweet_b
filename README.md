@@ -1,5 +1,5 @@
 # sweet_b
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header&text=danbi's%20profile&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header&text=danbi's%20HelloWorld&fontSize=50)
 
 <div align=center>
 <h4 align="center"> 안녕하세요🙌</h4>
