@@ -1,4 +1,4 @@
-# sweet_b
+# sweetbii
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header&text=danbi's%20HelloWorld&fontSize=50)
 
 <div align=center>
